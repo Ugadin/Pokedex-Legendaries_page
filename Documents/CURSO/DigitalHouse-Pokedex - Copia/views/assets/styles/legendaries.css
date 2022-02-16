@@ -181,6 +181,7 @@ main > div.carousel > img.setas{
     main > div.title > img.linha {
        width: 80vw;
        margin-top: 28px;
+       margin-bottom: -10px;
     }
     main > div.pokemon-data{
         display: flex;
@@ -192,7 +193,7 @@ main > div.carousel > img.setas{
         
     }
     main > div.pokemon-data > div.pokemon-description > h2{
-        margin-bottom: 25px;
+        margin-bottom: 15px;
     }
 
     main > div.pokemon-data > div.status{
@@ -206,6 +207,25 @@ main > div.carousel > img.setas{
     }main > div.pokemon-data > div.pokemon-description > div.status > div.filho2{
         width: 50%;
     }
+
+    main > div.pokemon-data > div.pokemon-description > div.status > div.filho1 > h4{
+        font-size: 18px;
+        margin-bottom: 2px;
+    }
+
+    main > div.pokemon-data > div.pokemon-description > div.status > div.filho2 > h4{
+        font-size: 18px;
+        margin-bottom: 2px;
+    }
+
+    main > div.pokemon-data > div.pokemon-description > div.status > div.filho1 > p{
+        margin-bottom: 2px;
+    }
+
+    main > div.pokemon-data > div.pokemon-description > div.status > div.filho2 > p{
+        margin-bottom: 2px;
+    }
+
     header > img{
         width: 128 px;
     }
