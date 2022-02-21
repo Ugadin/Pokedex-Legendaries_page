@@ -255,3 +255,24 @@ main > div.carousel > img.setas{
         width: 140px;
     }
 }
+@media(min-width: 481px){
+main > .heart > p {
+    display: flex;
+    padding: 30px;
+    color: white;
+}
+}
+
+@media(min-width: 650px){
+    main > .heart > p {
+        color: white;
+        margin-right: 800px;
+    }
+}
+
+@media(min-width: 650px){
+    main > .heart > p {
+        color: white;
+        margin-right: 800px;
+    }
+}
